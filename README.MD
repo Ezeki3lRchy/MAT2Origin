@@ -6,3 +6,7 @@ This script is used for the workflow:
 4. save project and exit
 
 **NOTE**: aim to eliminate tedious work, especially import large amount of data
+
+Links:
+1. [External Python Code Samples](https://www.originlab.com/doc/ExternalPython/External-Python-Code-Samples)
+2. [OriginPro API document](https://docs.originlab.com/originpro/annotated.html)
